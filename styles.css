@@ -1,0 +1,71 @@
+.header{
+   float: left;
+   line-height: 72px;
+   padding: 1px 10px;
+}
+
+.hero {
+    width: 1310px;
+    height: 600px;
+}
+.vision {
+    float: left;
+    width: 250px;
+    left: 156px;
+        top: 60px;
+        position: relative;
+}
+.box-vision {
+    width: 1128px;
+        height: 104px;
+}
+.aim {
+    width: 1128px;
+        height: 412px;
+        left: 100px;
+            top: 100px;
+            position: relative;
+}
+.images {
+    float: left;
+    
+}
+.header1 {
+text-align: center;
+margin-top: 124px;
+}
+.header-main {
+    text-align: center;
+}
+.team {
+    width: 1310px;
+        height: 732px;
+        margin-top: 240px;
+}
+.img-team {
+    float: left;
+    margin-left: 50px;
+    text-align: center;
+}
+.header2 {
+    text-align: center;
+    margin-bottom: 74px;
+}
+.footer {
+    height: 310px;
+    background-color: #2E2F42;
+}
+.footer-info {
+    width: 264px;
+        height: 110px;
+        color: #E7E9FC;
+        left: 156px;
+        position: relative;
+        top: 120px;
+}
+.web {
+    color: #4D5AE5;
+}
+.studio {
+    color: #F4F4FD;
+}
